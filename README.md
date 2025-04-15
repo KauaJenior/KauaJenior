@@ -1,5 +1,5 @@
 
-# Prazer, sou o Kauã Felipe 🤝
+# Ola, sou o Kauã Felipe 🤝
 
 <p>Sou estudante de Analise e Desenvolvimento de Sistema📖 pelo IFSP - Campus Cubatão e <br> formado no curso técnico em Informática pelo IFSP 💻- Campus Cubatão.</p><br><br>
 
