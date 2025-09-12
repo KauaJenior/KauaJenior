@@ -2,6 +2,7 @@
 # Ola, sou o Kauã Felipe 🤝
 
 <p>Sou estudante de Analise e Desenvolvimento de Sistema📖 pelo IFSP - Campus Cubatão e <br> formado no curso técnico em Informática pelo IFSP 💻- Campus Cubatão.</p><br><br>
+<p>Atualmente tambei cursando Curso de Aprendizagem Industrial Operador de Suporte em Tecnologia da Informação</p>
 
 
 
